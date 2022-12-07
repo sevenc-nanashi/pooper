@@ -1,5 +1,3 @@
-                                                                                                                   
-                                                                                                                   
                                                    eval(                                                           
                                                  (s='[["dis                                                        
                                                 corb","dotenv/l                                                    
@@ -43,4 +41,3 @@
             tion|interaction.post(attachment:Discorb::Attachment.from_string(32.chr*51+"eval("+10.chr+32.          
                chr*49+"(s="+39.chr+s+39.chr+").gsub(/       "+92.chr+"s/,"+39.chr*2+"))","pooper.rb"))             
                      },client.run(ENV.fetch(                          "TOKEN"))]').gsub(/\s/,''))                  
-                                                                                                                   
