@@ -14,7 +14,7 @@
 1. `bundle install`で依存ライブラリをインストールします。
 2. `.env.example`をコピーして`.env`を作成し、`TOKEN`にDiscordのBotのトークンを入力します。
 3. `bundle exec discorb setup`でコマンドやDBをセットアップします。
-4. `bundle exec discorb run`で起動します。
+4. `bundle exec discorb run formatted.rb`で起動します。
 
 ## ライセンス
 
